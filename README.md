@@ -1,6 +1,7 @@
 # Analyzing Covid-19 data via Python/Jupyter
 
-The underlying data is dynamically imported from https://raw.githubusercontent.com/CSSEGISandData 
+The underlying data is dynamically imported from
+[2019 Novel Coronavirus COVID-19 (2019-nCoV) Data Repository by Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
 
 # Purpose
 
@@ -12,10 +13,13 @@ minimized to prevent COVID-19 turning into more than a global nightmare.
 The countries to be analyzed can be configured in the section "Adaptation". For some countries/regions the underlying data 
 is further subdivided into provinces/states. The code does not yet support this decomposition and the respective countries.
 
+Notebook can be used via:
+[Binder Notebook](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Frpreiss07%2Fcovid19.git/master?filepath=index.ipynb)
+
 # License
 
-The LICENSE covers the direct content of this repository. The data source has its own independent terms of use (see
-raw.githubusercontent.com) to be applied on top.
+The LICENSE covers the direct content of this repository. The data source has its own independent terms of use (see link above)
+to be applied on top.
 
 Feel free to use the content of this repository for any humanitarian purpose if you share the idea that we need to work
 together to fight COVID-19 - independent from where we come from.
