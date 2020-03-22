@@ -11,7 +11,10 @@ The current code focuses on deriving the relative daily change (in percentage re
 minimized to prevent COVID-19 turning into more than a global nightmare.
 
 The countries to be analyzed can be configured in the section "Adaptation". For some countries/regions the underlying data 
-is further subdivided into provinces/states. The code does not yet support this decomposition and the respective countries.
+is further subdivided into provinces/states. The code supports only some of these countries.
+
+The prediction is - of course - just a very wild guess. It is not meant to be really used, I just added it so get a very
+rough idea (to myself) which countries are heading to the worst case.
 
 Notebook can be used via:
 [Binder Notebook](https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Frpreiss07%2Fcovid19.git/master?filepath=index.ipynb)
